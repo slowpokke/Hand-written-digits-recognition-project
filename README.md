@@ -1,7 +1,5 @@
 # Hand-written-digits-recognition-project
-A machine learning beginner study project 
-
-Using CNN, Mnist Dataset
+A machine learning beginner study project-Pytorch,CNN, Mnist Dataset
 
 cnn.py is used for training, when finished it will save the parameters in a file: mnist_cnn.pth
 
